@@ -2,6 +2,5 @@
 
 int main()
 {
-  printf("Aaaaahahaahah");
-
+  printf("\nAaaaahahaahah\n");
 }
