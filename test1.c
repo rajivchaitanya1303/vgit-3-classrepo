@@ -2,8 +2,9 @@
 
 int main()
 {
-  add();
-  subtract();
-  multipy();
-  divide();
+  printf("Aaaaahahaahah");
+  // add();
+  // subtract();
+  // multipy();
+  // divide();
 }
